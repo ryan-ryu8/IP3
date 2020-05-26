@@ -8,7 +8,7 @@
   Ryan Munge
   
 ## Overview of the project 
-  [Click to see me]
+  [Click to see me](https://ryan-ryu8.github.io/IP3/)
   
 ## Technologies Used
 * HTML
