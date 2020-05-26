@@ -1,4 +1,4 @@
-<!-- # Delani
+ # Delani
 
 ## Description
 * This is a project that details what Delani Studio does and their works.
@@ -18,4 +18,4 @@
 
 ### License
 * MIT
-* Ryan Munge -->
+* Ryan Munge 
